@@ -1,0 +1,26 @@
+history = -1 / Current history value
+<updates>
+utime = 2454705.508866 / Julian day of update - Tue Aug 26 12:12:46 2008
+map_radii(0) = 257000.000000000
+map_radii(1) = 251300.000000000
+map_radii(2) = 248300.000000000
+map_size(0) = 14400
+map_size(1) = 7200
+map_units(0) = 1.00000000000000
+map_units(1) = 1.00000000000000
+map_center(0) = 0.00000000000000
+map_center(1) = 0.00000000000000
+map_origin(0) = 7200.00000000000
+map_origin(1) = 3600.00000000000
+map_offset(0) = 0.00000000000000
+map_offset(1) = 0.00000000000000
+map_rotate = 7
+map_graphic = 1
+map_scale = 1.00000000000000
+map_type = 'RECTANGULAR'
+map_fn_image_to_map = 'map_image_to_map_RECTANGULAR'
+map_fn_map_to_image = 'map_map_to_image_RECTANGULAR'
+map_name = 'ENCELADUS'
+map_user = 'joes'
+map_tasks = ''
+
