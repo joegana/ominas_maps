@@ -1,0 +1,38 @@
+/=========================================================================/
+/ OMINAS detached header
+/   () = array index
+/   [] = object index
+/   {} = history index
+/=========================================================================/
+history = 0 / Current history value
+<updates>
+
+/ -------------------------------------------------------------------- /
+/ MAP descriptor -- updated Thu Aug 17 08:17:46 2017
+/ -------------------------------------------------------------------- /
+map_update_time = 2457983.34567130 
+map_tasks = '' 
+map_name = 'MERCURY' 
+map_abbrev = 'MAP' 
+map_tag = 'MD' 
+map_user = '' 
+map_projection = 'ORTHOGRAPHIC' 
+map_units(0) = 1.00000000000000 
+map_units(1) = 1.00000000000000 
+map_size(0) = 717 
+map_size(1) = 710 
+map_scale = 1.00000000000000 
+map_origin(0) = 358.000000000000 
+map_origin(1) = 355.000000000000 
+map_center(0) = -1.57079632679490 
+map_center(1) = 0.00000000000000 
+map_range(0) = -1.00000000000000e+100 
+map_range(1) = 1.00000000000000e+100 
+map_range(2) = -3.14159265358979 
+map_range(3) = 3.14159265358979 
+map_radii(0) = 2439700.00000000 
+map_radii(1) = 2439700.00000000 
+map_radii(2) = 2439700.00000000 
+map_graphic = 1 
+map_west = 1 
+map_rotate = 0 
